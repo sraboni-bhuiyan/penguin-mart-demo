@@ -8,12 +8,9 @@ body{
 header .nav-link{
     font-weight: 600;
 }
-.banner-left{
-    width: 416px;
-}
 .banner-left h1{
     font-family: 'Bebas Neue', cursive;
-    font-size: 80px;
+    font-size: 5.1rem;
 }
 .orange{
     color: #FABE4C;
